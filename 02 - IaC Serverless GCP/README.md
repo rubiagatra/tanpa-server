@@ -38,6 +38,10 @@ $ curl https://<go-url-kalian>
 $ curl https://<python-url-kalian>
 "Hello World!"
 
-# Hapus apps 
+# Hapus apps
 $ pulumi destroy
 ```
+
+Referensi
+
+- https://github.com/pulumi/examples/tree/master/gcp-ts-serverless-raw
